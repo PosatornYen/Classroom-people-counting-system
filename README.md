@@ -1,1 +1,1 @@
-"# Classroom-people-counting-system" 
+Classroom-people-counting-system
